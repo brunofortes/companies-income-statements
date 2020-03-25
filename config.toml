@@ -1,0 +1,2 @@
+uri="mongodb://127.0.0.1:27017"
+database="companies_income_statements_db"
